@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Emergency",
+      "img": "https://i.ibb.co/qycS40q/img-2.webp",
+      "description": "The Department of Family Medicine focuses on the diagnosis, treatment, and prevention of non-surgical conditions in adults. The department provides a wide range of high quality cross-specialty health care services, including physical examinations, preventive screenings and immunizations, urgent care for medical conditions, and referrals to surgical specialists when appropriate. Our Family Medicine Consultants have had broad-based training in General Medicine and in one or more subspecialties. The presence of clinicians with different subspecialty training in the department allows an integrated approach to patient care and helps to limit the volume of referral to other subspecialty departments."
+    },
+    {
+      "id": 2,
+      "name": "CANCER SURGERY",
+      "img": "https://i.ibb.co/qycS40q/img-2.webp",
+      "description": "The Department of Family Medicine focuses on the diagnosis, treatment, and prevention of non-surgical conditions in adults. The department provides a wide range of high quality cross-specialty health care services, including physical examinations, preventive screenings and immunizations, urgent care for medical conditions, and referrals to surgical specialists when appropriate. Our Family Medicine Consultants have had broad-based training in General Medicine and in one or more subspecialties. The presence of clinicians with different subspecialty training in the department allows an integrated approach to patient care and helps to limit the volume of referral to other subspecialty departments."
+    },
+    {
+      "id": 3,
+      "name": "DIABETES & ENDOCRINOLOGY",
+      "img": "https://i.ibb.co/qycS40q/img-2.webp",
+      "description": "The Department of Family Medicine focuses on the diagnosis, treatment, and prevention of non-surgical conditions in adults. The department provides a wide range of high quality cross-specialty health care services, including physical examinations, preventive screenings and immunizations, urgent care for medical conditions, and referrals to surgical specialists when appropriate. Our Family Medicine Consultants have had broad-based training in General Medicine and in one or more subspecialties. The presence of clinicians with different subspecialty training in the department allows an integrated approach to patient care and helps to limit the volume of referral to other subspecialty departments."
+    },
+    {
+      "id": 4,
+      "name": "NEUROSURGERY",
+      "img": "https://i.ibb.co/qycS40q/img-2.webp",
+      "description": "The Department of Family Medicine focuses on the diagnosis, treatment, and prevention of non-surgical conditions in adults. The department provides a wide range of high quality cross-specialty health care services, including physical examinations, preventive screenings and immunizations, urgent care for medical conditions, and referrals to surgical specialists when appropriate. Our Family Medicine Consultants have had broad-based training in General Medicine and in one or more subspecialties. The presence of clinicians with different subspecialty training in the department allows an integrated approach to patient care and helps to limit the volume of referral to other subspecialty departments."
+    },
+    {
+      "id": 5,
+      "name": "PLASTIC SURGERY",
+      "img": "https://i.ibb.co/qycS40q/img-2.webp",
+      "description": "The Department of Family Medicine focuses on the diagnosis, treatment, and prevention of non-surgical conditions in adults. The department provides a wide range of high quality cross-specialty health care services, including physical examinations, preventive screenings and immunizations, urgent care for medical conditions, and referrals to surgical specialists when appropriate. Our Family Medicine Consultants have had broad-based training in General Medicine and in one or more subspecialties. The presence of clinicians with different subspecialty training in the department allows an integrated approach to patient care and helps to limit the volume of referral to other subspecialty departments."
+    }
+  ]
