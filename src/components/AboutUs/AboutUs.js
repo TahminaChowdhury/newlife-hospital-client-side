@@ -1,6 +1,7 @@
 import React from 'react';
+import './AboutUs.css'
 
-const OurTeams = () => {
+const AboutUs = () => {
     return (
         <div>
             
@@ -8,4 +9,4 @@ const OurTeams = () => {
     );
 };
 
-export default OurTeams;
+export default AboutUs;

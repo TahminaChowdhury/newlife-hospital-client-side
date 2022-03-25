@@ -1,9 +1,13 @@
-.navbar-container{
-    width: 500px;
+.outer-navbar{
+    background-color: #DFF6FF;
 }
-.carousel-container img{
-    width: 100%;
-    height: 600px;
-    object-fit: cover;
-    object-position: center;
+.outer-navbar{
+    padding: 15px 0 15px 0;
+}
+.outer-navbar a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font: 14px;
+    margin-left: 60px;
 }

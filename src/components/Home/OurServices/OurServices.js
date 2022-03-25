@@ -58,8 +58,9 @@ const OurServices = () => {
                         modules={[ Pagination ]}
                         pagination={{ clickable: true }}
                         scrollbar={{ draggable: true }}
-                        spaceBetween={50}
+                        spaceBetween={30}
                         slidesPerView={3}
+                        loop={true}
                         onSlideChange={() => console.log('slide change')}
                         onSwiper={(swiper) => console.log(swiper)}
                     >
@@ -67,12 +68,17 @@ const OurServices = () => {
                             services.map(service => <SwiperSlide key={service.id}>
                                 <div>
                                     <div className='service-card'>
-                                        <div>
+                                        <div className='service-img'>
+                                    
                                             <img src={service.img} alt="" className='img-fluid'/>
+                                            
+                                            <div className='img-overlay'>
+                                                <Link to="/">View Details</Link>
+                                            </div>
                                         </div>
                                         <div className='pt-4 pb-5'>
                                             <h5>{service.name}</h5>
-                                            <p>{service.description.slice(0, 100)}...</p>
+                                            <p className='pt-2'>{service.description.slice(0, 100)}...</p>
                                         </div>
                                     </div>
                                 </div>
